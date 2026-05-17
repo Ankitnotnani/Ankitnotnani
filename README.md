@@ -1,3 +1,38 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ankit+Notnani+%F0%9F%91%8B;AI+%26+ML+Undergrad+%40+UPES;NASA+%26+SIH+2025+Grand+Finalist;Building+things+that+actually+work." alt="Typing SVG" />
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/ankit-notnani-24b11823a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ankitnotnani6497@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Ankitnotnani"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ankitnotnani&color=blue&style=flat-square&label=Profile+Views"/>
+</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankitnotnani&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankitnotnani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitnotnani&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ankitnotnani&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitnotnani&theme=tokyo-night&hide_border=true"/>
+</p>
 # Ankit Notnani
 
 > AI/ML undergrad building real systems — not just notebooks.
@@ -166,6 +201,6 @@ Also happy to contribute to interesting open-source projects. If you're building
 ## Get in Touch
 
 - 📧 Email: [ankitnotnani6497@gmail.com](mailto:ankitnotnani6497@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ankit-notnani](https://www.linkedin.com/in/ankit-notnani/)
+- 💼 LinkedIn: [linkedin.com/in/ankit-notnani](https://linkedin.com/in/ankit-notnani-24b11823a)
 - 🐙 GitHub: [github.com/Ankitnotnani](https://github.com/Ankitnotnani)
 - Response time: usually within 24 hours.
