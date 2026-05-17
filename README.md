@@ -1,14 +1,26 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ankit+Notnani+%F0%9F%91%8B;AI+%26+ML+Undergrad+%40+UPES;NASA+%26+SIH+2025+Grand+Finalist;Building+things+that+actually+work." alt="Typing SVG" />
 </p>
+
 <p align="center">
   <a href="https://linkedin.com/in/ankit-notnani-24b11823a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ankitnotnani6497@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Ankitnotnani"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ankitnotnani&color=blue&style=flat-square&label=Profile+Views"/>
 </p>
+
+---
+
+## About
+
+I'm a third-year CSE (AI & ML) student at UPES Dehradun who builds things end-to-end — from edge AI on ESP32 and Raspberry Pi to NLP-powered web platforms to NASA Earth data apps. I've led teams at two of India's biggest hackathons and shipped real products under pressure. I care about clean architecture, useful AI, and code that actually solves something.
+
+---
+
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,29 +33,27 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## GitHub Stats
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ankitnotnani&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ankitnotnani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitnotnani&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ankitnotnani&theme=tokyonight&hide_border=true"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitnotnani&theme=tokyo-night&hide_border=true"/>
 </p>
-# Ankit Notnani
-
-> AI/ML undergrad building real systems — not just notebooks.
-> Grand Finalist at NASA Space Apps 2025 & Smart India Hackathon 2025.
-
----
-
-## About
-
-I'm a third-year CSE (AI & ML) student at UPES Dehradun who builds things end-to-end — from edge AI on ESP32 and Raspberry Pi to NLP-powered web platforms to NASA Earth data apps. I've led teams at two of India's biggest hackathons and shipped real products under pressure. I care about clean architecture, useful AI, and code that actually solves something.
 
 ---
 
@@ -56,8 +66,6 @@ A personalised weather app that goes beyond standard forecasts. Uses the **ACIS 
 **What makes it different:** Standard weather apps give you temperature and precipitation. ChronoClime fuses temperature, wind, humidity, UV, and AQI into a single activity-specific score, then surfaces the best day automatically. Includes an optional **ESP8266 IoT hardware gateway** for GPS-based location input and an **AI weather chatbot** for context-aware queries.
 
 **My contributions:** Designed and implemented the ACIS scoring algorithm (the core differentiator), built the Activity Planner component, integrated the OpenWeatherMap API pipeline, developed the ESP8266 IoT gateway integration, and built the AI chatbot service.
-
-**Architecture:** React 18 + TypeScript + Vite frontend · OpenWeatherMap API · Supabase · Leaflet maps · ESP8266 NodeMCU (Arduino firmware) · Google Apps Script sync
 
 `React` `TypeScript` `Vite` `Tailwind CSS` `Framer Motion` `Supabase` `Leaflet` `ESP8266` `Arduino` `FastAPI`
 
@@ -79,18 +87,7 @@ Built for Indian Railways. An AI-powered lifecycle traceability system that assi
 
 A web-based AI platform that takes a hackathon problem statement, maps it to the relevant UN Sustainable Development Goals using NLP, and outputs structured project ideas with a full week-by-week execution roadmap.
 
-**What it does:**
-1. Preprocesses input — tokenization, stopword removal, lemmatization
-2. Extracts top keywords using term frequency
-3. Classifies against all 17 UN SDGs using a trained Logistic Regression model
-4. Finds similar problems from a curated hackathon dataset via cosine similarity
-5. Generates 1–5 project ideas with features, tech stack, SDG alignment, and India scheme fit
-6. Builds a configurable 1–12 week execution roadmap
-
 **Architecture:** Single-file React frontend → FastAPI REST API (6 endpoints) → Scikit-learn NLP pipeline (TF-IDF + Logistic Regression) + NLTK preprocessing · PostgreSQL + MongoDB data layer
-
-**Team:** Ankit Notnani (AI/ML & Backend) · Abhishree Panwar (Data & Research) · Chaitanya Gaur (Frontend) · Kshaunish Singh (Backend & APIs)
-**Mentor:** Prof. Aryan Gupta, Dept. of CSE, UPES
 
 `Python` `FastAPI` `Scikit-learn` `NLTK` `TF-IDF` `React` `PostgreSQL` `MongoDB` `NLP` `REST APIs`
 
@@ -102,18 +99,7 @@ A web-based AI platform that takes a hackathon problem statement, maps it to the
 
 A Tinder-style mobile-first shopping app — swipe right to wishlist, swipe up to cart, swipe left to skip. Built with React + TypeScript + Capacitor for native iOS deployment.
 
-**What makes it different:** Most e-commerce apps overwhelm users with cluttered grids. SwipeShop presents one product at a time with gesture-driven decisions — faster, more engaging, built mobile-first. Works with both touch (mobile) and mouse drag (desktop).
-
-**My contributions:** Built the ProductCard swipe engine — touch and mouse gesture detection, directional swipe logic (left/right/up), overlay animations, and double-tap support. Developed CategoryTabs component and real-time search filtering. Assembled the full product catalog and handled UI polish across all components.
-
-| Gesture | Action |
-|---|---|
-| Swipe Right → | Add to Wishlist |
-| Swipe Up ↑ | Add to Cart |
-| Swipe Left ← | Skip product |
-| Double Tap | Add to Wishlist |
-
-**Architecture:** React 18 + TypeScript + Vite · shadcn/ui · Tailwind CSS · React Context + useReducer · React Router v6 · TanStack Query · Capacitor (iOS)
+**My contributions:** Built the ProductCard swipe engine — touch and mouse gesture detection, directional swipe logic, overlay animations, and double-tap support. Developed CategoryTabs and real-time search filtering. Handled all UI polish across components.
 
 `React` `TypeScript` `Vite` `shadcn/ui` `Tailwind CSS` `Capacitor` `React Query` `iOS`
 
@@ -121,20 +107,13 @@ A Tinder-style mobile-first shopping app — swipe right to wishlist, swipe up t
 
 ---
 
-### SIMM — Smart Industrial Machine Monitoring & Predictive Maintenance &nbsp; `Industry 4.0`
+### SIMM — Smart Industrial Machine Monitoring &nbsp; `Industry 4.0`
 
-An edge AI system for predicting machinery failures before they occur — without needing historical failure data. Three-layer architecture: Edge DSP on ESP32 → Unsupervised AI Gateway → 3D Digital Twin dashboard.
+Edge AI system for predicting machinery failures before they occur — without needing historical failure data. ESP32 runs hardware-accelerated FFT locally, reducing network payload by over 90%. Isolation Forest model learns the healthy baseline and flags anomalies without labelled data. React Three Fiber 3D Digital Twin dashboard shows live machine health.
 
-**What makes it different:** Traditional IoT systems flood the cloud with raw sensor data. SIMM runs hardware-accelerated FFT directly on the ESP32, transmitting only dominant frequency and magnitude — reducing network payload by over 90%. The AI layer uses an Isolation Forest model that learns the machine's healthy baseline and flags anomalies without labelled failure data.
+**My contributions:** Built the React frontend and 3D Digital Twin dashboard, developed the FastAPI backend with SSE streaming for live data push, assisted with the CSV data pipeline.
 
-**My contributions:** Built the React frontend and 3D Digital Twin dashboard (App.jsx) — component structure, live telemetry graphs with Recharts, and real-time state updates. Helped develop the FastAPI backend — API routes, CORS, and SSE streaming for live data push. Assisted with the CSV data pipeline integrating PySerial logger output with backend processing.
-
-**Architecture:** ESP32 firmware (C++/Arduino, hardware FFT) → PySerial CSV logger → FastAPI SSE backend → React Three Fiber 3D dashboard · Isolation Forest anomaly detection (Scikit-learn) · Monitors 6 machines simultaneously
-
-**Team:** Kushagra Agarwal (Project Lead — hardware, firmware, AI) · Ankit Notnani (Frontend, backend, data pipeline)
-*Guided by Dr. Ayush Agrawal.*
-
-`ESP32` `Arduino` `FFT` `Python` `FastAPI` `Scikit-learn` `Isolation Forest` `React` `React Three Fiber` `WebGL` `Recharts` `Pandas`
+`ESP32` `Arduino` `FFT` `Python` `FastAPI` `Scikit-learn` `Isolation Forest` `React` `React Three Fiber` `WebGL` `Recharts`
 
 🔗 [Repository](https://github.com/Ankitnotnani/SIMM)
 
@@ -150,45 +129,19 @@ Online exam system with JWT auth, service discovery, and an API gateway built on
 
 ### ArthSahayak — Personal Finance Companion App
 
-Expense tracking, live market updates, and investment learning modules — built to make financial literacy accessible to young users through a data-driven interface.
+Expense tracking, live market updates, and investment learning modules — built to make financial literacy accessible to young users.
 
 `Python` `Financial APIs` `Data Analytics`
 
 ---
 
-## Skills
-
-**Languages:** Java · Python · C · JavaScript · TypeScript
-
-**AI / ML:** Scikit-learn · TensorFlow · PyTorch · NumPy · Pandas · Isolation Forest · NLP (NLTK, TF-IDF)
-
-**Web & Frontend:** React · Vite · Tailwind CSS · Framer Motion · React Three Fiber · shadcn/ui · HTML · CSS
-
-**Backend & APIs:** FastAPI · Flask · Spring Boot · Spring Cloud · REST APIs · SSE · JWT
-
-**Databases:** PostgreSQL · MySQL · MongoDB · Firebase · Supabase
-
-**Hardware & Edge:** Raspberry Pi · ESP32 · Coral Edge TPU · Arduino · MobileNetV3 · ESP8266
-
-**DevOps & Tools:** Git · GitHub · Docker · AWS · Wireshark · Kali Linux
-
----
-
 ## Achievements
 
-- Grand Finalist — **NASA Space Apps Challenge 2025** ("Will It Rain On My Parade?" — ChronoClime)
-- Grand Finalist — **Smart India Hackathon 2025** (SIH25021 — Team KASA, UPES representative)
-- Minor Project — **IDEACT**, AI-powered SDG hackathon advisor, UPES Dept. of CSE (2025–26)
-- Internship — **Binary Keeda Education Pvt. Ltd.** · Tech & Social Media — drove 50% audience engagement growth in 2 months (Jun–Aug 2025)
-- Internship — **Chhanv Foundation** · Supporting acid attack survivors — field campaigns, awareness sessions, Sheroes Hangout Cafe (Jun–Jul 2024)
-
----
-
-## Positions of Responsibility
-
-- Associate Secretary — Avishkarnam, The Literary Club of UPES (2023–Present)
-- Anchor & Host — UURJA / Spandan / Ukti (large-scale UPES events, thousands of attendees)
-- Former PR Head — Pratibimb Photography Club, UPES (2023–2024)
+- 🏆 Grand Finalist — **NASA Space Apps Challenge 2025** ("Will It Rain On My Parade?" — ChronoClime)
+- 🏆 Grand Finalist — **Smart India Hackathon 2025** (SIH25021 — Team KASA, UPES representative)
+- 📌 Minor Project — **IDEACT**, AI-powered SDG hackathon advisor, UPES Dept. of CSE (2025–26)
+- 💼 Internship — **Binary Keeda Education Pvt. Ltd.** · drove 50% audience engagement growth in 2 months (Jun–Aug 2025)
+- 💼 Internship — **Chhanv Foundation** · field campaigns and awareness sessions, Sheroes Hangout Cafe (Jun–Jul 2024)
 
 ---
 
@@ -199,9 +152,6 @@ Also happy to contribute to interesting open-source projects. If you're building
 
 ---
 
-## Get in Touch
-
-- 📧 Email: [ankitnotnani6497@gmail.com](mailto:ankitnotnani6497@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ankit-notnani](https://linkedin.com/in/ankit-notnani-24b11823a)
-- 🐙 GitHub: [github.com/Ankitnotnani](https://github.com/Ankitnotnani)
-- Response time: usually within 24 hours.
+<p align="center">
+  <img src="https://github.com/Ankitnotnani/Ankitnotnani/blob/dist/github-snake.svg"/>
+</p>
