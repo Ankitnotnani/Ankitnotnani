@@ -54,16 +54,20 @@ Expense tracking, live market updates, and investment learning modules — built
 
 ## Skills
 
-| Area | Technologies |
-|------|-------------|
-| Languages | Java · Python · C · JavaScript |
-| AI / ML | PyTorch · TensorFlow · Scikit-learn · NumPy · Pandas |
-| NLP | Text Preprocessing · Keyword Extraction · SDG Classification · Rule-based & Model-assisted |
-| Backend | Spring Boot · Spring Cloud · FastAPI · Flask · REST APIs |
-| Frontend | React · React Native · HTML · CSS |
-| Databases | MySQL · Firebase · PostgreSQL · MongoDB |
-| Hardware & Tools | Raspberry Pi · Coral Edge TPU · Git · AWS · Docker · Wireshark · Kali Linux |
+**Languages**
+Java · Python · C · C++
 
+**AI / ML**
+Scikit-learn · TensorFlow · NumPy · Pandas · Basic ML workflows
+
+**Web & Frontend**
+React · HTML · CSS · Basic frontend development
+
+**Tools & Productivity**
+Git · GitHub · Excel · REST APIs (basics)
+
+**Soft Skills**
+Leadership · Public Speaking & Anchoring · Communication · Confidence · Team Coordination · Content Writing
 ---
 
 ## Achievements
