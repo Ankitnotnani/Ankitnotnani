@@ -68,6 +68,7 @@ Git · GitHub · Excel · REST APIs (basics)
 
 **Soft Skills**
 Leadership · Public Speaking & Anchoring · Communication · Confidence · Team Coordination · Content Writing
+
 ---
 
 ## Achievements
