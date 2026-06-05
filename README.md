@@ -44,7 +44,7 @@ My work spans:
 * Full Stack Development
 * Intelligent Analytics Platforms
 
-I've led teams at two of India's largest hackathons and shipped projects involving TensorFlow, FastAPI, React, IoT hardware, and cloud deployments.
+I've led teams at two of India's largest hackathons and built projects involving TensorFlow, FastAPI, React, IoT hardware, and cloud deployments.
 
 I care about:
 
@@ -74,6 +74,18 @@ I care about:
 
 ---
 
+# Soft Skills
+
+![Public Speaking](https://img.shields.io/badge/Public_Speaking-FF6B6B?style=for-the-badge\&logo=speakerdeck\&logoColor=white)
+![Anchoring & Hosting](https://img.shields.io/badge/Anchoring_%26_Hosting-9B59B6?style=for-the-badge\&logo=microphone\&logoColor=white)
+![Leadership](https://img.shields.io/badge/Leadership-F39C12?style=for-the-badge\&logo=buffer\&logoColor=white)
+![Team Coordination](https://img.shields.io/badge/Team_Coordination-27AE60?style=for-the-badge\&logo=trello\&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-2980B9?style=for-the-badge\&logo=googlemeet\&logoColor=white)
+![Content Writing](https://img.shields.io/badge/Content_Writing-E74C3C?style=for-the-badge\&logo=medium\&logoColor=white)
+![Confidence](https://img.shields.io/badge/Confidence-1ABC9C?style=for-the-badge\&logo=lightning\&logoColor=white)
+
+---
+
 # Focus Areas
 
 * Artificial Intelligence
@@ -98,13 +110,13 @@ I care about:
 # GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ankitnotnani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ankitnotnani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitnotnani&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=Ankitnotnani&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitnotnani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitnotnani&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
@@ -213,8 +225,6 @@ AI lifecycle traceability system for Indian Railways with:
 
 ---
 
-# Other Projects
-
 ## SwipeShop — Swipe-Based E-Commerce App
 
 Tinder-style shopping interface built with React and TypeScript.
@@ -248,19 +258,6 @@ Finance tracking and investment learning platform focused on accessibility for s
 * Built multiple production-grade AI systems
 * Experience with AI + IoT + cloud deployments
 * Full-stack AI product development experience
-
----
-
-# Currently
-
-Actively looking for:
-
-* AI/ML internships
-* backend engineering roles
-* full-stack opportunities
-* open-source collaborations
-
-Interested in building scalable AI products and intelligent automation systems.
 
 ---
 
