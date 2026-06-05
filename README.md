@@ -1,266 +1,252 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Ankit+Notnani+%F0%9F%91%8B;AI+%26+ML+Engineer+%40+UPES;NASA+Space+Apps+%26+SIH+2025+Grand+Finalist;Building+AI+Products+That+Actually+Work." alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/ankit-notnani-24b11823a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ankit%20Notnani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Edge%20AI%20%7C%20Computer%20Vision&descAlignY=55&descSize=16"/>
 
-  <a href="mailto:ankitnotnani6497@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+AI+products+that+actually+work.;NASA+Space+Apps+%26+SIH+2025+Grand+Finalist+%F0%9F%9A%80;Computer+Vision+%7C+Edge+AI+%7C+Full-Stack+%7C+MLOps;CSE+(AI+%26+ML)+%40+UPES+Dehradun+%F0%9F%8E%93" alt="Typing SVG" />
 
-  <a href="https://github.com/Ankitnotnani">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ankitnotnani&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-notnani-24b11823a)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitnotnani6497@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankitnotnani)
+[![Portfolio](https://img.shields.io/badge/Live%20Demo-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://banana-sense-ai.vercel.app/#dashboard)
+
+<img src="https://komarev.com/ghpvc/?username=Ankitnotnani&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 
 ---
 
-# About
+## 🧠 About Me
 
-I'm a third-year Computer Science Engineering student specializing in AI & ML at UPES Dehradun.
+```python
+ankit = {
+    "role"        : "AI & ML Engineer | Full-Stack Developer | Edge AI Builder",
+    "university"  : "UPES Dehradun — B.Tech CSE (AI & ML), 2023–Present",
+    "achievements": ["NASA Space Apps 2025 — Grand Finalist 🚀",
+                     "Smart India Hackathon 2025 — Grand Finalist 🏆"],
+    "stack"       : ["TensorFlow", "FastAPI", "React", "Spring Boot",
+                     "ESP32/ESP8266", "Docker", "AWS"],
+    "currently"   : "Building production-grade AI systems for real-world problems",
+    "reach_me_at" : "ankitnotnani6497@gmail.com"
+}
+```
 
-I build:
-
-* AI-powered platforms
-* intelligent automation systems
-* full-stack products
-* edge AI solutions
-* backend systems
-* real-world machine learning applications
-
-My work spans:
-
-* Computer Vision
-* NLP
-* Edge AI & IoT
-* Backend Engineering
-* Full Stack Development
-* Intelligent Analytics Platforms
-
-I've led teams at two of India's largest hackathons and built projects involving TensorFlow, FastAPI, React, IoT hardware, and cloud deployments.
-
-I care about:
-
-* scalable architecture
-* useful AI
-* clean engineering
-* production-ready systems
-* products that solve actual problems
+I'm a third-year CS student at UPES Dehradun who builds things that ship. My work sits at the intersection of **Computer Vision**, **Edge AI**, **NLP**, and **Full-Stack Engineering** — from training MobileNet models on agricultural datasets to wiring ESP32 sensors into cloud dashboards. I've led teams at two of India's largest national hackathons and care deeply about systems that are **scalable, useful, and production-ready**.
 
 ---
 
-# Tech Stack
+## 🏆 Achievements
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
+<div align="center">
+
+| 🥇 Award | 📅 Year | 🔗 Project |
+|---|---|---|
+| **Grand Finalist — NASA Space Apps Challenge** | 2025 | ChronoClime — Weather Intelligence App |
+| **Grand Finalist — Smart India Hackathon (SIH25021)** | 2025 | KASA — AI Laser QR Marking System |
+| **Multiple Inter-College Hackathon Winner** | 2023–25 | Various AI & Full-Stack Projects |
+
+</div>
 
 ---
 
-# Soft Skills
+## 🛠️ Tech Stack
 
-![Public Speaking](https://img.shields.io/badge/Public_Speaking-FF6B6B?style=for-the-badge\&logo=speakerdeck\&logoColor=white)
-![Anchoring & Hosting](https://img.shields.io/badge/Anchoring_%26_Hosting-9B59B6?style=for-the-badge\&logo=microphone\&logoColor=white)
-![Leadership](https://img.shields.io/badge/Leadership-F39C12?style=for-the-badge\&logo=buffer\&logoColor=white)
-![Team Coordination](https://img.shields.io/badge/Team_Coordination-27AE60?style=for-the-badge\&logo=trello\&logoColor=white)
-![Communication](https://img.shields.io/badge/Communication-2980B9?style=for-the-badge\&logo=googlemeet\&logoColor=white)
-![Content Writing](https://img.shields.io/badge/Content_Writing-E74C3C?style=for-the-badge\&logo=medium\&logoColor=white)
-![Confidence](https://img.shields.io/badge/Confidence-1ABC9C?style=for-the-badge\&logo=lightning\&logoColor=white)
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-# Focus Areas
+**AI / ML & Data**
 
-* Artificial Intelligence
-* Computer Vision
-* Backend Systems
-* Full Stack Development
-* Edge AI & IoT
-* Intelligent Automation
-* Machine Learning Systems
-* Product Engineering
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
----
+**Frontend**
 
-# Contribution Graph
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitnotnani&theme=tokyo-night&hide_border=true"/>
-</p>
+**Backend & APIs**
 
----
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-# GitHub Analytics
+**Databases & Cloud**
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ankitnotnani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-  <img height="170em" src="https://streak-stats.demolab.com?user=Ankitnotnani&theme=tokyonight&hide_border=true"/>
-</p>
+**Hardware & Edge**
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitnotnani&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankitnotnani&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
 
-# Featured Projects
+## 🚀 Featured Projects
 
-## BananaSense AI — Intelligent Fruit Ripeness Detection Platform
+### 🍌 BananaSense AI — Intelligent Fruit Ripeness Detection
 
-Production-grade AI-powered computer vision platform for real-time banana ripeness detection using TensorFlow, FastAPI, and Next.js.
+> Production-grade computer vision platform for real-time banana ripeness classification using transfer learning.
 
-### Features
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Ankitnotnani/banana-sense-ai)
+[![Live](https://img.shields.io/badge/Live-Demo-00C853?style=flat-square&logo=vercel)](https://banana-sense-ai.vercel.app/#dashboard)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs)
 
-* Real-time AI classification
-* MobileNetV2 transfer learning
-* ~97% validation accuracy
-* Shelf life estimation
-* Quality scoring
-* Spoilage risk analysis
-* CSV analytics export
-* Enterprise analytics dashboard
-
-### What I Built
-
-* AI training pipeline
-* FastAPI inference backend
-* Next.js analytics dashboard
-* Intelligent agricultural insights
-* Visualization system
-* Full-stack deployment architecture
-
-`TensorFlow` `FastAPI` `Next.js` `TypeScript` `Tailwind CSS` `Computer Vision`
-
-🔗 Repository: https://github.com/Ankitnotnani/banana-sense-ai
-🌐 Live Demo: https://banana-sense-ai.vercel.app/#dashboard
+- 🧠 MobileNetV2 transfer learning with **~97% validation accuracy**
+- ⚡ Real-time AI classification with shelf life estimation & spoilage risk scoring
+- 📊 Enterprise-grade analytics dashboard with CSV export
+- 🏗️ Full-stack deployment: AI training pipeline → FastAPI inference → Next.js frontend
 
 ---
 
-## IDEACT — Intelligent SDG-Oriented Hackathon Advisor
+### 🌦️ ChronoClime — Hyper-Local Weather Intelligence App
 
-AI-powered NLP platform that maps hackathon problem statements to relevant UN Sustainable Development Goals and generates structured execution roadmaps.
+> **NASA Space Apps Challenge 2025 — Grand Finalist 🚀**
 
-### Architecture
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Ankitnotnani/ChronoClime)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![ESP8266](https://img.shields.io/badge/-ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
-* FastAPI backend
-* NLP classification pipeline
-* React frontend
-* MongoDB + PostgreSQL
-* TF-IDF + Logistic Regression
-
-`FastAPI` `Scikit-learn` `React` `MongoDB` `PostgreSQL` `NLP`
-
-🔗 Repository: https://github.com/Ankitnotnani/IDEACT
+- 🎯 Designed **ACIS** (Adverse Condition Impact Score) — personalised 1–10 activity-centric weather risk metric
+- 🔌 Integrated ESP8266 IoT gateway for hardware-based GPS location input
+- 🤖 Built AI weather chatbot + animated forecast UI + mobile-responsive frontend
+- 🗓️ Optimal Day Finder for proactive scheduling around weather windows
 
 ---
 
-## ChronoClime — Hyper-Local Weather Intelligence App
+### 🏭 KASA — AI Laser QR Marking System
 
-`NASA Space Apps Challenge 2025 — Grand Finalist`
+> **Smart India Hackathon 2025 — Grand Finalist 🏆 | SIH25021**
 
-Advanced AI-powered weather intelligence platform with:
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-* ACIS risk scoring engine
-* AI weather chatbot
-* IoT GPS integration
-* activity-based weather recommendations
-
-`React` `TypeScript` `ESP8266` `FastAPI`
-
-🔗 Repository: https://github.com/Ankitnotnani/ChronoClime
-
----
-
-## SIMM — Smart Industrial Machine Monitoring
-
-Edge AI anomaly detection system for industrial machinery using ESP32 FFT processing and AI-powered predictive monitoring.
-
-### Features
-
-* Real-time anomaly detection
-* Edge AI processing
-* Digital Twin dashboard
-* Live telemetry streaming
-
-`ESP32` `FastAPI` `Isolation Forest` `React Three Fiber`
-
-🔗 Repository: https://github.com/Ankitnotnani/SIMM
+- 🚆 QR lifecycle traceability system for Indian Railways track components
+- 🧠 MobileNetV3 + Coral Edge TPU for on-device AI inference
+- 📊 AI analytics dashboard with failure-rate visualisations (Dash/Plotly)
+- ☁️ Cloud backend syncing with Indian Railways UDM & TMS portals
 
 ---
 
-## KASA — AI-Powered Laser QR Marking System
+### 🔬 SIMM — Smart Industrial Machine Monitoring
 
-`Smart India Hackathon 2025 — Grand Finalist`
+> Edge AI anomaly detection for industrial machinery.
 
-AI lifecycle traceability system for Indian Railways with:
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Ankitnotnani/SIMM)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-* QR-based tracking
-* predictive maintenance
-* AI analytics
-* cloud synchronization
-
-`React` `Firebase` `AWS` `Dash` `Plotly`
-
----
-
-## SwipeShop — Swipe-Based E-Commerce App
-
-Tinder-style shopping interface built with React and TypeScript.
-
-`React` `TypeScript` `Tailwind CSS`
-
-🔗 Repository: https://github.com/Ankitnotnani/SwipeShop
+- ⚙️ ESP32 FFT processing for real-time frequency analysis at the edge
+- 🤖 Isolation Forest model for unsupervised anomaly detection
+- 🌐 Digital Twin 3D dashboard built with React Three Fiber
+- 📡 Live telemetry streaming pipeline
 
 ---
 
-## ExamHub — Microservices Exam Platform
+### 💡 IDEACT — Intelligent SDG Hackathon Advisor *(Minor Project)*
 
-Scalable online examination platform using Spring Boot microservices and JWT authentication.
+> NLP platform mapping problem statements to UN SDGs with full execution roadmaps.
 
-`Spring Boot` `Spring Cloud` `JWT` `React`
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Ankitnotnani/IDEACT)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
-
-## ArthSahayak — Personal Finance Companion
-
-Finance tracking and investment learning platform focused on accessibility for students and young users.
-
-`Python` `Financial APIs` `Data Analytics`
-
----
-
-# Achievements
-
-* Grand Finalist — NASA Space Apps Challenge 2025
-* Grand Finalist — Smart India Hackathon 2025
-* Built multiple production-grade AI systems
-* Experience with AI + IoT + cloud deployments
-* Full-stack AI product development experience
+- 🗺️ 3-layer architecture: React → FastAPI → MongoDB with TF-IDF NLP classification pipeline
+- 🧩 Multi-SDG classification with feasibility scoring & tech stack recommendations
+- 📅 Outputs week-by-week project execution roadmaps — not just generic suggestions
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Ankitnotnani/Ankitnotnani/blob/dist/github-snake.svg"/>
-</p>
+### 📚 Other Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [SwipeShop](https://github.com/Ankitnotnani/SwipeShop) | React, TypeScript, Tailwind | Tinder-style swipe shopping interface |
+| ExamHub | Spring Boot, JWT, React | Microservices-based online exam platform (5 services) |
+| ArthSahayak | Python, Financial APIs | Personal finance companion for students |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ankitnotnani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Ankitnotnani&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitnotnani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ankitnotnani&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitnotnani&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
+
+---
+
+## 💼 Experience
+
+**Tech & Social Media Intern** — Binary Keeda Education Pvt. Ltd. *(Jun–Aug 2025)*
+- Drove **50% increase in audience engagement** through data-informed content strategy
+- Authored podcast scripts & maintained backend technical documentation
+
+**Social Intern** — Chhanv Foundation *(Jun–Jul 2024)*
+- Supported acid attack survivors at Sheroes Hangout Cafe, Agra
+- Managed records, drafted communications, assisted in cross-functional coordination
+
+---
+
+## 🎯 Leadership & Campus Roles
+
+- 🖊️ **Associate Secretary** — Avishkarnam Literary Club, UPES *(2023–Present)*
+- 🎙️ **Anchor & Host** — UURJA, Spandan, Ukti — Major UPES Events *(2023–Present)*
+- 📸 **Former PR Head** — Pratibimb Photography Club, UPES *(2023–24)*
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Impactful
+
+*Open to collaborations, research opportunities, and internships in AI/ML & Full-Stack.*
+
+[![Email](https://img.shields.io/badge/ankitnotnani6497%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitnotnani6497@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-notnani-24b11823a)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
