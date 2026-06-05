@@ -19,24 +19,17 @@
 
 ## About Me
 
-<table>
-<tr>
-<td valign="top" width="55%">
+**AI & ML Engineer · Full-Stack Developer · CSE (AI & ML) @ UPES Dehradun**
 
-### Hi, I'm Ankit
+Third-year undergrad who builds end-to-end AI systems that actually ship — computer vision models, NLP pipelines, full-stack products, and hardware integrations with ESP32 and Raspberry Pi.
 
-Third-year **CSE (AI & ML)** undergrad at UPES Dehradun.
+Led teams at two of India's largest national hackathons — **NASA Space Apps Challenge 2025** and **Smart India Hackathon 2025** — both as Grand Finalists.
 
-I build end-to-end AI systems — computer vision models, NLP pipelines, and full-stack products that ship. My work spans everything from training TensorFlow models to wiring ESP32 sensors into cloud dashboards.
+I care about clean architecture, useful AI, and writing code that holds up in production.
 
-Led teams at two of India's largest national hackathons, both reaching the **Grand Finale**.
+&nbsp;
 
-> Currently open to **internships**, **collaborations**, and **research** in AI/ML & Full-Stack.
-
-</td>
-<td valign="top" width="45%">
-
-**At a glance**
+📍 Dehradun, India &nbsp;|&nbsp; 📬 ankitnotnani6497@gmail.com &nbsp;|&nbsp; 💼 Open to Internships & Collaborations
 
 I'm a third-year CS student at UPES Dehradun who builds things that ship. My work sits at the intersection of **Computer Vision**, **NLP**, and **Full-Stack Engineering** — from training MobileNet models on agricultural datasets to wiring ESP32 sensors into cloud dashboards. I've led teams at two of India's largest national hackathons and care deeply about systems that are **scalable, useful, and production-ready**.
 
