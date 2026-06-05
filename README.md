@@ -17,21 +17,28 @@
 
 ---
 
-## About Me
+class AnkitNotnani:
 
-```python
-ankit = {
-    "name"        : "Ankit Notnani",
-    "role"        : "AI & ML Engineer | Full-Stack Developer",
-    "university"  : "UPES Dehradun — B.Tech CSE (AI & ML), 2023–Present",
-    "achievements": ["NASA Space Apps 2025 — Grand Finalist",
-                     "Smart India Hackathon 2025 — Grand Finalist"],
-    "stack"       : ["TensorFlow", "FastAPI", "React", "Spring Boot",
-                     "ESP32/ESP8266", "Docker", "AWS"],
-    "currently"   : "Building production-grade AI systems for real-world problems",
-    "reach_me_at" : "ankitnotnani6497@gmail.com"
-}
-```
+    name       = "Ankit Notnani"
+    role       = "AI & ML Engineer  |  Full-Stack Developer"
+    university = "UPES Dehradun — B.Tech CSE (AI & ML), 2023–Present"
+
+    achievements = [
+        "NASA Space Apps Challenge 2025 — Grand Finalist",
+        "Smart India Hackathon 2025 — Grand Finalist",
+    ]
+
+    stack = {
+        "ai_ml"    : ["TensorFlow", "Scikit-learn", "OpenCV", "NLP"],
+        "backend"  : ["FastAPI", "Flask", "Spring Boot"],
+        "frontend" : ["React", "Next.js", "TypeScript", "Tailwind"],
+        "hardware" : ["ESP32", "ESP8266", "Raspberry Pi"],
+        "cloud"    : ["AWS", "Docker", "Firebase"],
+    }
+
+    currently = "Building production-grade AI for real-world problems"
+    open_to   = ["Internships", "Collaborations", "Research"]
+    contact   = "ankitnotnani6497@gmail.com"
 
 I'm a third-year CS student at UPES Dehradun who builds things that ship. My work sits at the intersection of **Computer Vision**, **NLP**, and **Full-Stack Engineering** — from training MobileNet models on agricultural datasets to wiring ESP32 sensors into cloud dashboards. I've led teams at two of India's largest national hackathons and care deeply about systems that are **scalable, useful, and production-ready**.
 
